@@ -1,0 +1,23 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "Small file utility for quick use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurisAudentis/Files.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AurisAudentis/Files/issues"
+  },
+  "homepage": "https://github.com/AurisAudentis/Files#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^3.4.0"
+  }
+}
